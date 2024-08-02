@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 985f9a64e8eb4bf48b71cf816fdc7a1f, type: 3}
+  m_Name: BoosterByProgressionBalanceSO
+  m_EditorClassIdentifier: 
+  <Duration>k__BackingField: 5
+  <SpeedBoostCoefficient>k__BackingField: 1.3
+  <MagnetismBoostCoefficient>k__BackingField: 1.3
+  <ScoreBoostCoefficient>k__BackingField: 2
+  <PointsMilestone>k__BackingField: 000000002c010000bc020000b0040000d0070000b80b000088130000
+  <ObjectCountForEveryMilestone>k__BackingField: 25

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1caf79f4d57b4f81bf49beaf4f7d39a3, type: 3}
+  m_Name: GameAssetsSO
+  m_EditorClassIdentifier: 
+  screenAssets:
+    <ScreenPrefabs>k__BackingField:
+    - <ScreenName>k__BackingField: 0
+      <PortraitScreen>k__BackingField: {fileID: 1955366718074818410, guid: 2c60a2b3bb705f94d8e79292cdb0acef,
+        type: 3}
+      <DesktopScreen>k__BackingField: {fileID: 1955366718074818410, guid: 8eeeb7248f39d41d2bb6a72a73dbcd2c,
+        type: 3}
+    - <ScreenName>k__BackingField: 1
+      <PortraitScreen>k__BackingField: {fileID: 1955366718074818410, guid: c19fb79bd2509487e9947b2f34d65ec9,
+        type: 3}
+      <DesktopScreen>k__BackingField: {fileID: 1955366718074818410, guid: d2ced14484a284d169d11ee78417149a,
+        type: 3}
+    - <ScreenName>k__BackingField: 2
+      <PortraitScreen>k__BackingField: {fileID: 1955366718074818410, guid: 7b2382ba691aa4756a3ff487336e8de7,
+        type: 3}
+      <DesktopScreen>k__BackingField: {fileID: 1955366718074818410, guid: 0d141f23ee18649dda4517ddb83f7785,
+        type: 3}
+    - <ScreenName>k__BackingField: 3
+      <PortraitScreen>k__BackingField: {fileID: 1955366718074818410, guid: 008ab3b54f8db423197d7eb7fc90c9e0,
+        type: 3}
+      <DesktopScreen>k__BackingField: {fileID: 1955366718074818410, guid: 3b1487050cac04732a8f5fcfa588ecf5,
+        type: 3}
+    - <ScreenName>k__BackingField: 4
+      <PortraitScreen>k__BackingField: {fileID: 1955366718074818410, guid: 177716c625c634f7db387f55680d4f09,
+        type: 3}
+      <DesktopScreen>k__BackingField: {fileID: 1955366718074818410, guid: aca3f580700fa4e23ab3651dbebb1c5f,
+        type: 3}
+    - <ScreenName>k__BackingField: 5
+      <PortraitScreen>k__BackingField: {fileID: 1955366718074818410, guid: 9c2168ad5085cec43b2cb6dcc32690e8,
+        type: 3}
+      <DesktopScreen>k__BackingField: {fileID: 1955366718074818410, guid: 212faad49a75f1444aba987173ed1598,
+        type: 3}
+    - <ScreenName>k__BackingField: 6
+      <PortraitScreen>k__BackingField: {fileID: 7441702485779226918, guid: 53e6218dc0ef1c94690e0a8ffd1347e8,
+        type: 3}
+      <DesktopScreen>k__BackingField: {fileID: 7441702485779226918, guid: d12e9d60bef187145b70b4f4095c5b9d,
+        type: 3}
+    - <ScreenName>k__BackingField: 7
+      <PortraitScreen>k__BackingField: {fileID: 1955366718074818410, guid: e81fea31d2a87a646aee4472089458cd,
+        type: 3}
+      <DesktopScreen>k__BackingField: {fileID: 1955366718074818410, guid: 48b84591fe8e8474fb3a5eef1737e548,
+        type: 3}
+  spriteAssetsSo: {fileID: 11400000, guid: 54335396fdddb4449a35db9236cf7e65, type: 2}
+  audioAssetsSo: {fileID: 11400000, guid: 283f48d29de8e4dc684603d02bc4153b, type: 2}

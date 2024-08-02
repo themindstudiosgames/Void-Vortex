@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ac9c6ab4ec842759f094b03552d75d7, type: 3}
+  m_Name: CollectableItemBalances
+  m_EditorClassIdentifier: 
+  <CollectableItemBalance>k__BackingField:
+  - <ItemType>k__BackingField: 2
+    <Points>k__BackingField: 2
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 13
+    <Points>k__BackingField: 1
+    <SizeGrowth>k__BackingField: 0.01
+  - <ItemType>k__BackingField: 3
+    <Points>k__BackingField: 3
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 11
+    <Points>k__BackingField: 3
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 4
+    <Points>k__BackingField: 2
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 8
+    <Points>k__BackingField: 3
+    <SizeGrowth>k__BackingField: 0.04
+  - <ItemType>k__BackingField: 12
+    <Points>k__BackingField: 3
+    <SizeGrowth>k__BackingField: 0.04
+  - <ItemType>k__BackingField: 19
+    <Points>k__BackingField: 2
+    <SizeGrowth>k__BackingField: 0.04
+  - <ItemType>k__BackingField: 22
+    <Points>k__BackingField: 3
+    <SizeGrowth>k__BackingField: 0.04
+  - <ItemType>k__BackingField: 0
+    <Points>k__BackingField: 5
+    <SizeGrowth>k__BackingField: 0.06
+  - <ItemType>k__BackingField: 6
+    <Points>k__BackingField: 4
+    <SizeGrowth>k__BackingField: 0.05
+  - <ItemType>k__BackingField: 10
+    <Points>k__BackingField: 4
+    <SizeGrowth>k__BackingField: 0.05
+  - <ItemType>k__BackingField: 16
+    <Points>k__BackingField: 5
+    <SizeGrowth>k__BackingField: 0.06
+  - <ItemType>k__BackingField: 20
+    <Points>k__BackingField: 5
+    <SizeGrowth>k__BackingField: 0.06
+  - <ItemType>k__BackingField: 7
+    <Points>k__BackingField: 6
+    <SizeGrowth>k__BackingField: 0.07
+  - <ItemType>k__BackingField: 17
+    <Points>k__BackingField: 6
+    <SizeGrowth>k__BackingField: 0.07
+  - <ItemType>k__BackingField: 21
+    <Points>k__BackingField: 8
+    <SizeGrowth>k__BackingField: 0.1
+  - <ItemType>k__BackingField: 1
+    <Points>k__BackingField: 8
+    <SizeGrowth>k__BackingField: 0.1
+  - <ItemType>k__BackingField: 5
+    <Points>k__BackingField: 8
+    <SizeGrowth>k__BackingField: 0.1
+  - <ItemType>k__BackingField: 23
+    <Points>k__BackingField: 10
+    <SizeGrowth>k__BackingField: 0.1
+  - <ItemType>k__BackingField: 9
+    <Points>k__BackingField: 8
+    <SizeGrowth>k__BackingField: 0.15
+  - <ItemType>k__BackingField: 18
+    <Points>k__BackingField: 9
+    <SizeGrowth>k__BackingField: 0.11
+  - <ItemType>k__BackingField: 25
+    <Points>k__BackingField: 12
+    <SizeGrowth>k__BackingField: 0.13
+  - <ItemType>k__BackingField: 14
+    <Points>k__BackingField: 10
+    <SizeGrowth>k__BackingField: 0.13
+  - <ItemType>k__BackingField: 15
+    <Points>k__BackingField: 12
+    <SizeGrowth>k__BackingField: 0.1
+  - <ItemType>k__BackingField: 24
+    <Points>k__BackingField: 12
+    <SizeGrowth>k__BackingField: 0.15
+  - <ItemType>k__BackingField: 26
+    <Points>k__BackingField: 12
+    <SizeGrowth>k__BackingField: 0.15
+  - <ItemType>k__BackingField: 27
+    <Points>k__BackingField: 12
+    <SizeGrowth>k__BackingField: 0.15
+  - <ItemType>k__BackingField: 28
+    <Points>k__BackingField: 3
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 29
+    <Points>k__BackingField: 10
+    <SizeGrowth>k__BackingField: 0.04
+  - <ItemType>k__BackingField: 30
+    <Points>k__BackingField: 2
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 31
+    <Points>k__BackingField: 12
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 32
+    <Points>k__BackingField: 5
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 33
+    <Points>k__BackingField: 8
+    <SizeGrowth>k__BackingField: 0.1
+  - <ItemType>k__BackingField: 34
+    <Points>k__BackingField: 4
+    <SizeGrowth>k__BackingField: 0.05
+  - <ItemType>k__BackingField: 35
+    <Points>k__BackingField: 1
+    <SizeGrowth>k__BackingField: 0.01
+  - <ItemType>k__BackingField: 36
+    <Points>k__BackingField: 1
+    <SizeGrowth>k__BackingField: 0.01
+  - <ItemType>k__BackingField: 37
+    <Points>k__BackingField: 4
+    <SizeGrowth>k__BackingField: 0.1
+  - <ItemType>k__BackingField: 38
+    <Points>k__BackingField: 3
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 39
+    <Points>k__BackingField: 3
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 40
+    <Points>k__BackingField: 4
+    <SizeGrowth>k__BackingField: 0.04
+  - <ItemType>k__BackingField: 41
+    <Points>k__BackingField: 2
+    <SizeGrowth>k__BackingField: 0.05
+  - <ItemType>k__BackingField: 42
+    <Points>k__BackingField: 4
+    <SizeGrowth>k__BackingField: 0.05
+  - <ItemType>k__BackingField: 43
+    <Points>k__BackingField: 2
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 44
+    <Points>k__BackingField: 12
+    <SizeGrowth>k__BackingField: 0.15
+  - <ItemType>k__BackingField: 45
+    <Points>k__BackingField: 12
+    <SizeGrowth>k__BackingField: 0.13
+  - <ItemType>k__BackingField: 46
+    <Points>k__BackingField: 9
+    <SizeGrowth>k__BackingField: 0.07
+  - <ItemType>k__BackingField: 47
+    <Points>k__BackingField: 8
+    <SizeGrowth>k__BackingField: 0.1
+  - <ItemType>k__BackingField: 48
+    <Points>k__BackingField: 3
+    <SizeGrowth>k__BackingField: 0.05
+  - <ItemType>k__BackingField: 49
+    <Points>k__BackingField: 5
+    <SizeGrowth>k__BackingField: 0.05
+  - <ItemType>k__BackingField: 50
+    <Points>k__BackingField: 12
+    <SizeGrowth>k__BackingField: 0.06
+  - <ItemType>k__BackingField: 51
+    <Points>k__BackingField: 3
+    <SizeGrowth>k__BackingField: 0.04
+  - <ItemType>k__BackingField: 52
+    <Points>k__BackingField: 5
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 53
+    <Points>k__BackingField: 8
+    <SizeGrowth>k__BackingField: 0.1
+  - <ItemType>k__BackingField: 54
+    <Points>k__BackingField: 9
+    <SizeGrowth>k__BackingField: 0.1
+  - <ItemType>k__BackingField: 55
+    <Points>k__BackingField: 10
+    <SizeGrowth>k__BackingField: 0.06
+  - <ItemType>k__BackingField: 56
+    <Points>k__BackingField: 5
+    <SizeGrowth>k__BackingField: 0.07
+  - <ItemType>k__BackingField: 57
+    <Points>k__BackingField: 4
+    <SizeGrowth>k__BackingField: 0.04
+  - <ItemType>k__BackingField: 58
+    <Points>k__BackingField: 2
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 59
+    <Points>k__BackingField: 3
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 60
+    <Points>k__BackingField: 8
+    <SizeGrowth>k__BackingField: 0.13
+  - <ItemType>k__BackingField: 61
+    <Points>k__BackingField: 12
+    <SizeGrowth>k__BackingField: 0.13
+  - <ItemType>k__BackingField: 62
+    <Points>k__BackingField: 4
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 63
+    <Points>k__BackingField: 4
+    <SizeGrowth>k__BackingField: 0.04
+  - <ItemType>k__BackingField: 64
+    <Points>k__BackingField: 3
+    <SizeGrowth>k__BackingField: 0.04
+  - <ItemType>k__BackingField: 65
+    <Points>k__BackingField: 10
+    <SizeGrowth>k__BackingField: 0.11
+  - <ItemType>k__BackingField: 66
+    <Points>k__BackingField: 12
+    <SizeGrowth>k__BackingField: 0.15
+  - <ItemType>k__BackingField: 67
+    <Points>k__BackingField: 5
+    <SizeGrowth>k__BackingField: 0.05
+  - <ItemType>k__BackingField: 68
+    <Points>k__BackingField: 10
+    <SizeGrowth>k__BackingField: 0.1
+  - <ItemType>k__BackingField: 69
+    <Points>k__BackingField: 6
+    <SizeGrowth>k__BackingField: 0.07
+  - <ItemType>k__BackingField: 70
+    <Points>k__BackingField: 2
+    <SizeGrowth>k__BackingField: 0.03
+  - <ItemType>k__BackingField: 71
+    <Points>k__BackingField: 6
+    <SizeGrowth>k__BackingField: 0.07

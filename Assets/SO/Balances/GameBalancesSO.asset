@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17e9f988b82f4f0594e50bfaa9623b86, type: 3}
+  m_Name: GameBalancesSO
+  m_EditorClassIdentifier: 
+  collectableItemBalancesSo: {fileID: 11400000, guid: 21be8df1dd78f4525af0a61d4a6365b8,
+    type: 2}
+  playerHoleBalancesSo: {fileID: 11400000, guid: 455d82b52f55447abb93ddffcd75881c,
+    type: 2}
+  matchBalancesSo: {fileID: 11400000, guid: 4dd8a6e96b7a2487aa09b87ca497e56d, type: 2}
+  boosterByProgressionSo: {fileID: 11400000, guid: 6816db05900f4d744b69543bf9245b8d,
+    type: 2}
