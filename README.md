@@ -58,8 +58,8 @@ Telegram: https://t.me/VoidVortex_bot
 
 #### WebGL
 <div style="display: flex; overflow-x: auto; padding: 10px; white-space: nowrap;">
-  <img src="Screenshots/WebGL_2.PNG" alt="WebGL Game Screenshot 1" width="864px" height="496px" style="margin-right: 10px;"/>
-  <img src="Screenshots/WebGL_3.PNG" alt="WebGL Result Screen" width="864px" height="496px"/>
+  <img src="Screenshots/WebGL_2.png" alt="WebGL Game Screenshot 1" width="864px" height="496px" style="margin-right: 10px;"/>
+  <img src="Screenshots/WebGL_3.png" alt="WebGL Result Screen" width="864px" height="496px"/>
 </div>
 
 ## License
