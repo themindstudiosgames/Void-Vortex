@@ -43,18 +43,24 @@ Telegram: https://t.me/VoidVortex_bot
 ## Screenshots
 
 #### Telegram bot
-<img src="Screenshots/IMG_2698.PNG" alt="Telegram Bot Main Screen" width="323px" height="700px"/>
-<img src="Screenshots/IMG_2711.PNG" alt="Telegram Bot Game Screenshot 1" width="323px" height="700px"/>
-<img src="Screenshots/IMG_2712.PNG" alt="Telegram Bot Game Screenshot 2" width="323px" height="700px"/>
-<img src="Screenshots/IMG_2713.PNG" alt="Telegram Bot Result Screen" width="323px" height="700px"/>
+<div style="display: flex; overflow-x: auto; padding: 10px; white-space: nowrap;">
+  <img src="Screenshots/IMG_2698.PNG" alt="Telegram Bot Main Screen" width="323px" height="700px" style="margin-right: 10px;"/>
+  <img src="Screenshots/IMG_2711.PNG" alt="Telegram Bot Game Screenshot 1" width="323px" height="700px" style="margin-right: 10px;"/>
+  <img src="Screenshots/IMG_2712.PNG" alt="Telegram Bot Game Screenshot 2" width="323px" height="700px" style="margin-right: 10px;"/>
+  <img src="Screenshots/IMG_2713.PNG" alt="Telegram Bot Result Screen" width="323px" height="700px"/>
+</div>
 
 #### Android
-<img src="Screenshots/Android_1.jpg" alt="Android Game Screenshot 1" width="323px" height="692px"/>
-<img src="Screenshots/Android_2.jpg" alt="Android Game Screenshot 2" width="323px" height="692px"/>
+<div style="display: flex; overflow-x: auto; padding: 10px; white-space: nowrap;">
+  <img src="Screenshots/Android_1.jpg" alt="Android Game Screenshot 1" width="323px" height="692px" style="margin-right: 10px;"/>
+  <img src="Screenshots/Android_2.jpg" alt="Android Game Screenshot 2" width="323px" height="692px"/>
+</div>
 
 #### WebGL
-<img src="Screenshots/WebGL_2.PNG" alt="WebGL Game Screenshot 1" width="864px" height="496px"/>
-<img src="Screenshots/WebGL_3.PNG" alt="WebGL Result Screen" width="864px" height="496px"/>
+<div style="display: flex; overflow-x: auto; padding: 10px; white-space: nowrap;">
+  <img src="Screenshots/WebGL_2.PNG" alt="WebGL Game Screenshot 1" width="864px" height="496px" style="margin-right: 10px;"/>
+  <img src="Screenshots/WebGL_3.PNG" alt="WebGL Result Screen" width="864px" height="496px"/>
+</div>
 
 ## License
 
