@@ -16,7 +16,7 @@ It’s a hyper-casual game for Web, iOS, Android, and as a Telegram bot made by 
 
 ## Links
 
-Great introWebGL version: https://themindstudiosgames.github.io/Void-Vortex-WebGL/
+WebGL version: https://themindstudiosgames.github.io/Void-Vortex-WebGL/
 
 Telegram: https://t.me/VoidVortex_bot
 
